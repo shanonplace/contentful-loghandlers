@@ -1,0 +1,21 @@
+{
+  "name": "console-logger-contentful",
+  "version": "1.0.0",
+  "description": "Utility to allow console logging of the Contentful requests for an application.  Useful when you are doing server sidde rendering and want to have a good log of what Contentful Content Delivery API requests are being made to build the pages.",
+  "main": "log-handlers.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint log-handlers.mjs"
+  },
+  "author": {
+    "name": "Shanon Place",
+    "email": "shanonplace@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
