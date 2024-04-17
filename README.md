@@ -34,7 +34,7 @@ This setup will log the request ID, timing, cache result, query path, and size o
 
 Looks like this:
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png?raw=true)
 
 ## Note 📝
 
