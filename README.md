@@ -7,7 +7,7 @@ This is a simple npm package designed to log and visualize your Contentful Conte
 Install this package as a development dependency:
 
 ```console
-npm install --save-dev log-handlers
+npm install --save-dev console-logger-contentful
 ```
 
 ## Usage 🛠
@@ -15,7 +15,7 @@ npm install --save-dev log-handlers
 Import the `requestLogger` and `responseLogger` functions from the module:
 
 ```console
-import { requestLogger, responseLogger } from 'log-handlers';
+import { requestLogger, responseLogger } from 'console-logger-contentful';
 ```
 
 Configure `requestLogger` and `responseLogger` as interceptors in your Axios instance used with Contentful:
@@ -39,7 +39,7 @@ Looks like this:
 ## Note 📝
 
 - This package is intended for **development use only**. Do not install it as a production dependency.
-- Ensure you replace `log-handlers` with the actual name of your npm module when importing and installing.
+- The package is designed to work with the Contentful JavaScript SDK. It may not work with other Contentful SDKs or APIs.
 
 ## Contributing 🤝
 
