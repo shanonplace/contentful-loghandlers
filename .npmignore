@@ -1,0 +1,14 @@
+# Test files
+*.test.js
+__tests__
+
+# Development configuration files
+.eslintrc
+.prettierrc
+
+# screenshot
+screenshot.png
+
+# Continuous integration configuration files
+.travis.yml
+appveyor.yml
