@@ -6,8 +6,6 @@ __tests__
 .eslintrc
 .prettierrc
 
-# screenshot
-screenshot.png
 
 # Continuous integration configuration files
 .travis.yml

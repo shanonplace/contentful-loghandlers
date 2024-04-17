@@ -1,6 +1,6 @@
 {
   "name": "console-logger-contentful",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility to allow console logging of the Contentful requests for an application.  Useful when you are doing server side rendering and want to have a good log of what Contentful Content Delivery API requests are being made to build the pages.",
   "main": "log-handlers.mjs",
   "type": "module",
