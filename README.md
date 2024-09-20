@@ -34,7 +34,8 @@ This setup will log the request ID, timing, cache result, query path, and size o
 
 Looks like this:
 
-![screenshot]([screenshot.png?raw=true](https://raw.githubusercontent.com/shanonplace/contentful-loghandlers/refs/heads/main/screenshot.png)
+![Logging Screenshot](https://raw.githubusercontent.com/shanonplace/contentful-loghandlers/refs/heads/main/screenshot.png)
+
 
 ## Note 📝
 
